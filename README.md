@@ -1,2 +1,3 @@
-This is Fullstack Assignment 
-Topic : Build a Product and Category Filter
+<h1>This is Fullstack Assignment</h1>
+<br>
+<p>Topic : Build a Product and Category Filter</p>
